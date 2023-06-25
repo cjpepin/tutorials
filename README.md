@@ -11,24 +11,24 @@
 
 1. Visit the [React documentation](https://react.dev/) for a full overview of React.
 2. To install react globally, navigate in your terminal to where you want your app to be.
-... In my case, I went to where I store all my VSCode projects, made a new directory called “tutorials” and cd’d into this directory like so:
-... ````
+⋅⋅⋅ In my case, I went to where I store all my VSCode projects, made a new directory called “tutorials” and cd’d into this directory like so:
+⋅⋅⋅ ````
     cd VSCode //Enter the VSCode directory/folder
     mkdir tutorials //Make tutorials directory
     cd tutorials //Enter tutorials directory
    ```
-3. Use the command “npm install -g create-react-app”. 
-... This will allow us to create a new react app from anywhere
-4. To create our new react app, in the tutorials directory, I will use the command “npx create-react-app react_mysql_tutorial”
-...This should both create a new react app, and install the basic react packages necessary for the project
+4. Use the command “npm install -g create-react-app”. 
+⋅⋅⋅ This will allow us to create a new react app from anywhere
+5. To create our new react app, in the tutorials directory, I will use the command “npx create-react-app react_mysql_tutorial”
+⋅⋅⋅This should both create a new react app, and install the basic react packages necessary for the project
 
 ### Creating A Backend Directory
 
 1. While you are in your root directory for your app, in my case “react_mysql_tutorial”, and make a new folder called “frontend”. 
-... We will place everything created from the create-react-app command in this directory
+⋅⋅⋅ We will place everything created from the create-react-app command in this directory
 2. Create another folder under your project’s root directory called “backend”. 
 3. In this directory, create a file called “server.js”
-... This will be where all of our server code will will go
+⋅⋅⋅ This will be where all of our server code will will go
 
 ### Creating a MySQL Database
 
